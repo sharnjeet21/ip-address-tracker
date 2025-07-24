@@ -56,7 +56,7 @@ Users should be able to:
 ## 🔗 Links
 
 - **Live Demo**: [IP Address Tracker](https://ip-address-tracker-initial.vercel.app/)
-- **Solution URL**: [Frontend Mentor Solution](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0?tab=solutions)
+- **Solution URL**: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/ip-address-tracker-lv7fD_KK_e)
 - **Challenge URL**: [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0)
 
 ---
